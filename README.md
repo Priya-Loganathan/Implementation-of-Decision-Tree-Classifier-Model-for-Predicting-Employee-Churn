@@ -73,7 +73,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ![image](https://github.com/Priya-Loganathan/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/121166075/e5c08043-7e42-457e-9fde-8590fa82053e)
 ###  Values Count in Left Column:
 ![image](https://github.com/Priya-Loganathan/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/121166075/dd732811-bcff-4f5c-a950-3cf453e6b953)
-### Dataset transformed head
+### Dataset transformed head:
 ![image](https://github.com/Priya-Loganathan/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/121166075/8e5e6127-f7bb-4ddf-9689-a20d23299bff)
 ### x.head:
 ![image](https://github.com/Priya-Loganathan/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/121166075/465b1d28-f520-4ced-9455-0a591ef002b3)
